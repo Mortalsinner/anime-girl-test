@@ -1,9 +1,9 @@
-import Fetch from './Fetch'
+import Axios from './Axios'
 
 const LandingPage = () => {
     return (  
 
-        <Fetch/>
+        <Axios/>
 
     );
 }
